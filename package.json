@@ -1,21 +1,21 @@
 {
-  "name": "@perugi/changeme",
+  "name": "knight-travails",
   "version": "1.0.0",
-  "description": "CHANGEME",
-  "main": "package.js",
+  "description": "DSA practice problem of modelling a knight on the chessboard - showing the shortest possible way to get from one square to another.",
+  "main": "knight.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/perugi/CHANGEME.git"
+    "url": "git+https://github.com/perugi/knight-travails.git"
   },
   "author": "Dominik Perusko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/perugi/CHANGEME/issues"
+    "url": "https://github.com/perugi/knight-travails/issues"
   },
-  "homepage": "https://github.com/perugi/CHANGEME#readme",
+  "homepage": "https://github.com/perugi/knight-travails#readme",
   "devDependencies": {
     "@perugi/eslint-config": "^1.0.3",
     "@perugi/prettier-config": "^1.0.2",
